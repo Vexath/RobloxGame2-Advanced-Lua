@@ -1,0 +1,1 @@
+script.Parent.TextLabel.Text = script.Parent.Parent.Parent.Name:sub(4)
